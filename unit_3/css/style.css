@@ -2,30 +2,30 @@ body {
 	font-family: "Open Sans", sans-serif;
 	text-align: center;
 	color: #4e5252;
-	background-image: url(../images/bgim.jpg);
-	
+	background-image: url(../images/background.image.jpg);
+
 }
 
 
 h1 {
 	color: white;
-	text-align: left;
 	padding-left: 125px;
 }
 
 #control {
 	text-align: center;
-	color: black;
+	color: white;
 	text-transform: uppercase;
 	font-weight: 900;
-	font-size: 15px;
+	font-size: 21px;
 }
 
 	
 
 h3 { font-weight: 5
-	00; color: rgb(77,77,77);
+	00; color: rgb(55,55,55);
 	background-color: #aeb0b0;
+	padding-top: 25px;
 }
 
 
@@ -35,6 +35,7 @@ p { font-weight: 200;
 }
 
 .test {
-	font-size: 18px;
+	font-size: 20px;
+	padding-top: 10px;
 
 }
