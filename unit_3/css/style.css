@@ -3,39 +3,27 @@ body {
 	text-align: center;
 	color: #4e5252;
 	background-image: url(../images/background.image.jpg);
-
 }
-
 
 h1 {
 	color: white;
 	padding-left: 125px;
 }
 
-#control {
+#tagline {
 	text-align: center;
 	color: white;
 	text-transform: uppercase;
-	font-weight: 900;
 	font-size: 21px;
 }
 
-	
-
-h3 { font-weight: 5
-	00; color: rgb(55,55,55);
-	background-color: #aeb0b0;
-	padding-top: 25px;
+h3 {
+	color: rgb(155,155,155);
+	padding-top: 35px;
 }
 
-
-p { font-weight: 200;
-	color: #4e5252;
+p {
+	font-family: "Arial", sans-serif;
+	color: #828282;
 	font-size: 14px;
-}
-
-.test {
-	font-size: 20px;
-	padding-top: 10px;
-
 }
