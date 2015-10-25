@@ -1,0 +1,40 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	text-align: center;
+	color: #4e5252;
+	background-image: url(../images/bgim.jpg);
+	
+}
+
+
+h1 {
+	color: white;
+	text-align: left;
+	padding-left: 125px;
+}
+
+#control {
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 15px;
+}
+
+	
+
+h3 { font-weight: 5
+	00; color: rgb(77,77,77);
+	background-color: #aeb0b0;
+}
+
+
+p { font-weight: 200;
+	color: #4e5252;
+	font-size: 14px;
+}
+
+.test {
+	font-size: 18px;
+
+}
