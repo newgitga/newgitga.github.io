@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
 body {
 	font-family: "Open Sans", sans-serif;
 	text-align: center;
@@ -19,12 +21,14 @@ h1 {
 }
 
 h3 {
-	color: rgb(155,155,155);
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+	color: rgb(55,55,55);
 	padding-top: 35px;
 }
 
 p {
 	font-family: "Arial", sans-serif;
-	color: #828282;
+	color: rgb(155,155,155);
 	font-size: 14px;
 }
