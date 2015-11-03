@@ -22,8 +22,8 @@ h1 {
 	color: white;
 	text-transform: uppercase;
 	font-family: 'Oswald', sans-serif;
-	font-size: 22px;
-	word-spacing: 20px;
+	font-size: 20px;
+	word-spacing: 10px;
 	letter-spacing: 1px;
 }
 
@@ -52,7 +52,7 @@ h5 {
 	line-height: 130%;
 }
 span {
-	color: green;
+	color: yellow;
 	text-transform: uppercase;
 }
 
