@@ -7,14 +7,36 @@ body {
 	/*background-image: url(../images/background.image.jpg);*/
 }
 
+header {
+	background-color: #FFED74;
+}
+
+nav	{
+	background-color: #E8C66A;
+}
+
+section {
+	background-color: #E89C6C;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
 h1 {
 	color: white;
 	padding-left: 125px;
 }
 #wrapper {
-	background-color: #545454;
 	width: 1200px;
 	margin: 0 auto;
+}
+div {
+	background-color: #FFE2B8;
 }
 
 #menu {
@@ -28,9 +50,8 @@ h1 {
 }
 
 #list {
-	text-align: left;
+	text-align: center;
 	width: 500px;
-	padding-left: 100px;
 	margin: 0 auto;
 	background-color: rgb(105,105,105);
 }
@@ -50,10 +71,6 @@ h5 {
 	color: rgb(255,255,255);
 	padding-top: 35px;
 	line-height: 130%;
-}
-span {
-	color: yellow;
-	text-transform: uppercase;
 }
 
 p {
