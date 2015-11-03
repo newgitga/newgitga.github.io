@@ -1,15 +1,20 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 
 body {
-	font-family: "Open Sans", sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	text-align: center;
 	color: #4e5252;
-	background-image: url(../images/background.image.jpg);
+	/*background-image: url(../images/background.image.jpg);*/
 }
 
 h1 {
 	color: white;
 	padding-left: 125px;
+}
+#wrapper {
+	background-color: #545454;
+	width: 1200px;
+	margin: 0 auto;
 }
 
 #menu {
@@ -17,21 +22,25 @@ h1 {
 	color: white;
 	text-transform: uppercase;
 	font-family: 'Oswald', sans-serif;
-	font-size: 24px;
+	font-size: 22px;
 	word-spacing: 20px;
+	letter-spacing: 1px;
 }
 
-h3 {
+h5 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 26px;
-	color: rgb(70,70,70);
+	font-size: 21px;
+	color: rgb(255,255,255);
 	padding-top: 35px;
 	line-height: 130%;
 }
 
 p {
 	font-family: "Arial", sans-serif;
-	color: rgb(155,155,155);
+	color: rgb(188,188,188);
 	font-size: 14px;
-	padding-top: 10px;
+	padding-top: 5px;
+}
+li {
+	color: rgb(188,188,188);
 }
