@@ -27,12 +27,33 @@ h1 {
 	letter-spacing: 1px;
 }
 
+#list {
+	text-align: left;
+	width: 500px;
+	padding-left: 100px;
+	margin: 0 auto;
+	background-color: rgb(105,105,105);
+}
+
+ul {
+	list-style-type: none;
+}
+
+span {
+	color: red;
+	text-transform: uppercase;
+}
+
 h5 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 21px;
 	color: rgb(255,255,255);
 	padding-top: 35px;
 	line-height: 130%;
+}
+span {
+	color: green;
+	text-transform: uppercase;
 }
 
 p {
