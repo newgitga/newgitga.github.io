@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+	color: #4e5252;
+	/*background-image: url(../images/background.image.jpg);*/
+}
+
+header {
+	background-color: #FFED74;
+}
+
+nav	{
+	background-color: #E8C66A;
+}
+
+section {
+	background-color: #E89C6C;
+}
+
+aside {
+	background-color: #FFC675;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+h1 {
+	color: white;
+	padding-left: 125px;
+}
+#wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+div {
+	background-color: #FFE2B8;
+}
+
+#menu {
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	word-spacing: 10px;
+	letter-spacing: 1px;
+}
+
+#list {
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	background-color: rgb(105,105,105);
+}
+
+ul {
+	list-style-type: none;
+}
+
+span {
+	color: red;
+	text-transform: uppercase;
+}
+
+h5 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 21px;
+	color: rgb(255,255,255);
+	padding-top: 35px;
+	line-height: 130%;
+}
+
+p {
+	font-family: "Arial", sans-serif;
+	color: rgb(188,188,188);
+	font-size: 14px;
+	padding-top: 5px;
+}
+li {
+	color: rgb(188,188,188);
+}
