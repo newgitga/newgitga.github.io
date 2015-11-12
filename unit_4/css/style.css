@@ -1,34 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
-
 body {
-	font-family: "Open Sans", sans-serif;
+	font-family: Verdana;
 	text-align: center;
 	color: #4e5252;
-	background-image: url(../images/background.image.jpg);
 }
-
-h1 {
-	color: white;
-	padding-left: 125px;
-}
-
-#tagline {
-	text-align: center;
-	color: white;
-	font-family: "Open Sans", sans-serif;
-	text-transform: uppercase;
-	font-size: 21px;
-}
-
 h3 {
-	font-family: 'Oswald', sans-serif;
-	font-size: 24px;
-	color: rgb(55,55,55);
-	padding-top: 35px;
-}
-
-p {
-	font-family: "Arial", sans-serif;
-	color: rgb(155,155,155);
-	font-size: 14px;
+	font-size:24px;
 }
