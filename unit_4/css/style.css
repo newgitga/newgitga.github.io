@@ -1,8 +1,42 @@
 body {
-	font-family: Verdana;
+	font-family: Arial;
 	text-align: center;
-	color: #4e5252;
 }
+
+h2 {
+	font-size:22px;
+	font-weight: normal;
+}
+
+/*p {
+	background-color: #d1d3d4;
+}*/
+
 h3 {
-	font-size:24px;
+	font-size:18px;
+}
+	#test {
+	color: #ffffff;
+	background-color: #232323;
+	font-size:18px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: "Open Sans";
+	}
+
+span {
+	color: red;
+	font-size: 24px;
+}
+ul {
+	list-style-type: none;
+}
+	strong {
+		background-color: orange;
+	}
+	.smaller {
+		font-size: 14px;
+	}
+	div {
+  background-color: white;
 }
