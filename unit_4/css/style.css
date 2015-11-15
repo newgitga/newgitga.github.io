@@ -15,14 +15,20 @@ h2 {
 h3 {
 	font-size:18px;
 }
-	#test {
+	#black {
 	color: #ffffff;
-	background-color: #232323;
+	font-family: Arial;
+	background-color: #333;
 	font-size:18px;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	font-family: "Open Sans";
 	}
+
+	#wrapper {
+	width: 960px;
+	/*background-color: #333;*/
+  	margin: 0 auto;
+}
 
 span {
 	color: red;
@@ -32,11 +38,11 @@ ul {
 	list-style-type: none;
 }
 	strong {
-		background-color: orange;
+	background-color: orange;
 	}
 	.smaller {
-		font-size: 14px;
+	font-size: 14px;
 	}
 	div {
-  background-color: white;
+  	background-color: white;
 }
