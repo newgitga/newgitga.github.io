@@ -8,15 +8,15 @@ body {
 	width: 1100px;
 	margin: auto;
 }
-#pleasework {
+#div1 {
 	font-family: Arial;
 	font-size: 14px;
 	background-color: #dedede;
-	border: 5px solid #9b9b9b;
-	padding: 5px, 20px, 80px, 20px;
-	margin: 5em;
+	padding: 22px;
+	margin: 22px;
 }
-#please2 {
+
+#div2 {
 	font-family: Arial;
 	font-size: 14px;
 	background-color: #ffffff;
