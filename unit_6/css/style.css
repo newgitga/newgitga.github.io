@@ -26,6 +26,7 @@ body {
 	}
 	.subhead1 {
   	font-size: 18px;
+  	color: #000000;
   	padding-left: 11px;
   	font-family: Verdana;
   	font-weight: bold;
@@ -35,28 +36,15 @@ body {
   	padding: 11px;
   	padding-right: 5px;
   	font-family: Verdana;
-  	line-height: 1.4em;
+  	line-height: 1.5em;
   	}
   	.body2 {
   	font-size: 14px;
   	padding: 11px;
   	font-family: Arial;
-  	line-height: 1.4em;
+  	line-height: 1.8em;
   	}
-
-nav	{
-	font-family: Arial;
-	background-color: #dedede;
-	}
-a 	{
-	background-color: #e91818;
-	color: white;
-	text-decoration: none;
-	float: left;
-	padding: 10px;
-	width: 255px;
-	}
-	a:hover {
+  	a:hover {
 	background-color: #aaaaaa;
 	}
 	.clearfix:after {
@@ -73,12 +61,26 @@ a 	{
   	height: 700px;
 	padding: 1px;
 	margin: 0;
-}
+	}
+
+nav	{
+	font-family: Arial;
+	background-color: #dedede;
+	}
+
+a 	{
+	background-color: #e91818;
+	color: white;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	width: 255px;
+	}
 h3 {
 	font-family: Arial;
 	font-weight: 800;
 	text-transform: uppercase;
-	font-size: 21px;
+	font-size: 20px;
 	padding-left: 11px;
 	color: #000000;
 	padding-top: 35px;
@@ -88,7 +90,7 @@ p 	{
 	color: rgb(77,77,77);
 	padding-left: 11px;
 	font-size: 12px;
-	line-height: 1.4em;
+	line-height: 1.5em;
 	}
 footer {
 	background-color: #e91818;
