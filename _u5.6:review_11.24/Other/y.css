@@ -1,0 +1,47 @@
+body {
+  background: #333;
+}
+
+span {
+  font-variant: small-caps;
+  font-family: tahoma, sans-serif;
+  letter-spacing: .55em;
+  padding: 0 .2em;
+  background: rgba(100,150,150,.5);
+}
+
+
+.wsb {
+  text-align: right;
+  font-size: 1px;
+}
+
+
+div {
+  background: #c0dec5;
+  margin: 11em;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #889e8c;
+  padding: 10em;
+
+  p {
+	font-family: georgia, serif;
+	font-size: 28px;
+	line-height: 1.4em;
+}
+
+
+
+
+li {
+  font-family: Arial;
+  font-size: 16px;
+  margin: 15px 0;
+}
+
+p {
+  font-family: georgia, serif;
+  font-size: 55px;
+  line-height: 1.4em;
+}
