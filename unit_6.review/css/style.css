@@ -64,7 +64,7 @@ div {
 #test {
   width: 500px;
   margin: 10px auto;
-  border: 2px solid black;
+  border: 10px solid black;
   padding: 10px;
 }
 
