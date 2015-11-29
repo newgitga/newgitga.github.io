@@ -62,17 +62,18 @@ div {
   padding: 2em 2em 2em 2em;
 }
 #test {
+  background-color: #d8eff4;
   width: 500px;
   margin: 10px auto;
-  border: 10px solid black;
+  border: 7px solid black;
   padding: 10px;
 }
 
-test img {
+#test img {
   margin: 0 10px 10px 0;
 }
 
-test p {
+#test p {
   margin: 0;
   padding: 0;
 }
