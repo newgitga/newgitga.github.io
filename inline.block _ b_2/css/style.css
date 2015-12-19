@@ -1,4 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 body {
+
 }
 #wrapper {
   width: 1000px;
@@ -6,7 +11,7 @@ body {
   margin: 0px auto;
 }
 h2 {
-padding: 10px 10px 1px 53px;
+padding: 30px 0;
 font-family: Verdana;
 color: #ffffff;
 font-weight: 200;
@@ -31,8 +36,6 @@ padding: 15px;
 font-size: 14px;
 line-height: 1.6em;
 font-weight: 200;
-margin: 55px;
-
 }
 ul {
  background-color: orange;
@@ -47,16 +50,26 @@ li {
 }
 a {
   background-color: orange;
-  color:#333;
+  color: #333; 
+}
+a:hover {
+  background-color: #333;
+}
+nav a {
+  font-family: Arial;
+  display: block;
+  width: 250px;
+  text-decoration: none;
 }
 strong, em {
 background-color: orange;
 font-size: 14px;
 
 }
-#one {
+.one {
   background-color: #333;
   margin: 55px;
+  padding:  0 55px 55px;
 }
 #two {
   background-color: #c7c7c7;
@@ -64,6 +77,7 @@ font-size: 14px;
 }
 #image {
   background-color: #dedede;
+  text-align: center;
 }
 
 
