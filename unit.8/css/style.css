@@ -1,0 +1,158 @@
+* { margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#wrapper {
+width: 70%;
+background-color: #dedede;
+margin: 0 auto;
+}
+body {
+	font-family: Verdana;
+	font-size: 10px;
+}
+#bigimage {
+	width: 100%;
+}
+}
+.logo {
+display: block;
+margin: 0 auto;
+width: 100%;
+padding: 2em;
+}
+nav {
+	background-color: #fff;
+	}
+a {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	float: left;
+	background-color: #fff;
+	text-decoration: none;
+	letter-spacing: .2em;
+	padding: 20px;
+	color: #333;
+	font-size: 1.3em;
+	width: 25%;
+}
+a:hover {
+background-color: #e9e9e9;
+}
+h1 {
+	font-size: 1.4em;
+	padding: 20px 5px 8px 15px;
+	letter-spacing: .2em;
+	line-height: 1.5em;
+	text-transform: uppercase;
+}
+h4 {
+	font-family: Verdana;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: 1.5em;
+  	padding: 8px 0px 8px 18px;
+	color: #333;
+	}
+aside {
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-bottom: 80px;
+	width: 85%;
+	border: 8px #dedede solid;
+	padding: 20px 10px 20px 10px;
+}
+aside img {
+	float: right;
+	padding: 10px 10px 10px 10px;
+	}
+.column {
+	float: left;
+	width: 29.33%;
+	padding: 1%;
+	margin: 0 1%;
+}
+.pics {
+	width: 29.33%;
+	margin: 1%;
+		padding: 1%;
+}
+.body {
+font-size: 1.3em;
+line-height: 1.4em;
+padding: 5px 15px 50px 15px;
+color: #333;
+}
+.body3 {
+font-size: 1.2em;
+font-family: Verdana;
+padding: 2px 2px 2px 20px;
+line-height: 1.6em;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+#column1 {
+border: 1px solid #333;
+}
+#column2 {
+border: 1px solid #333;
+}
+#column3 {
+border: 1px solid #333;
+}
+.images {
+background-color: #333;
+padding: 55px;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+	h1 {
+		float: none;
+		width: auto;
+	}
+	    img {
+    	width: 400px;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.column {
+		float: none;
+		width: auto;
+	}
+	img {
+		width: 300px;
+	}
+}
+/*
+
+.body1 {
+font-size: 1.2em;
+line-height: 1.5em;
+padding: 5px 165px 5px 22px;
+color: #333;
+}
+.pixel-unit {
+background-color: #fff;
+width: 900px;
+height: 125px;
+}*/
+
+
+
+
+
+
+
+
+
